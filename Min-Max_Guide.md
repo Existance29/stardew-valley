@@ -315,7 +315,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - You will buy Spring Crops on Spring 5 or 6, so wait to buy from Pierre today.
 - It should now be close to 4:00 PM, and we can meet everybody else near the Saloon:
   - At 4:00 PM, 18. Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet 19. George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
-  - At 4:00 PM, 20. Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet 20. Gus and Emily. (You have to go behind the counter to talk to Gus.)
+  - At 4:00 PM, 20. Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet 21. Gus and Emily. (You have to go behind the counter to talk to Gus.)
   - At 4:20 PM, 22. Penny passes Lewis's fence, and Alex leaves his house.
   - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we still need to meet them.
   - Check your quest journal to confirm that you register meeting 24 people of the maximum 27 for today.
