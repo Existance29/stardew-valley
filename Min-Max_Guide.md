@@ -288,35 +288,35 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - Pick up all forgeable items along the way.
   - If it would not waste the energy gain, you can immediately eat the Spring Onions upon pickup to free up the inventory space.
   - Kill as many weeds as possible, but do not go too far for just one weed (since you need to make it to Marnie by 12:50 PM).
-- Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
-- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
+- Meet 1. Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
+- Meet 2. Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking when they can drop an item, and it flies in the opposite direction. (This is similar to the strategy where pausing when a tree is falling down is optimal.)
   - Checking garbage cans is a massive waste of time, so the route only does this on the first two days.
-- Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
+- Meet 3. Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
 - Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and can collect them on Spring 2.)
-- Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
+- Meet 4. Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
-- Meet Clint inside of the blacksmith. (When leaving the blacksmith, go east.)
+- Meet 5. Clint inside of the blacksmith. (When leaving the blacksmith, go east.)
 - Check the garbage can next to JojaMart.
-- Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
+- Meet 6. Pam + 7. Sam + 8. Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds behind/north of JojaMart.
-- Meet Abigail on the bridge.
-- If you see Maru walking south and she is close, talk to her now. Otherwise, meet Maru when she is sitting on the bench later on. (She arrives at the benches at 3:20 PM.)
+- Meet 9. Abigail on the bridge.
+- If you see 10. Maru walking south and she is close, talk to her now. Otherwise, meet Maru when she is sitting on the bench later on. (She arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
-- Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
+- Meet 11. Evelyn (at the flowers), 12. Caroline + 13. Jodi (at the square), and 14. Vincent + 15. Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
-- Meet Leah + Pierre inside Pierre's General Store.
+- Meet 16. Leah + 17. Pierre inside Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so wait to buy from Pierre today.
 - It should now be close to 4:00 PM, and we can meet everybody else near the Saloon:
-  - At 4:00 PM, Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
-  - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
-  - At 4:20 PM, Penny passes Lewis's fence, and Alex leaves his house.
+  - At 4:00 PM, 18. Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet 19. George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
+  - At 4:00 PM, 20. Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet 20. Gus and Emily. (You have to go behind the counter to talk to Gus.)
+  - At 4:20 PM, 22. Penny passes Lewis's fence, and Alex leaves his house.
   - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we still need to meet them.
   - Check your quest journal to confirm that you register meeting 24 people of the maximum 27 for today.
 - Go back to the farm. (Leave all forgeable items at the Bus Stop on the ground for now.)
